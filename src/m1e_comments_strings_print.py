@@ -1,16 +1,25 @@
-########################################################################
+###############################################################################
 #
-#   Run this module by right clicking anywhere in this window, then select
+#   Read the code below.  Predict (in your head) what will get printed
+#   (i.e., displayed) when the code runs.
+#
+#   Then run this module by right clicking anywhere in this window
+#   and then selecting:
 #        Run 'name of file'
-#   After running, find the Console tab (below) and confirm that everything
-#   did indeed get printed (displayed).  This module is just an example.
-#   Once you have run the file, feel free to play with it some, then you
-#   can move on to m2.
+#   Or, use the keyboard shortcut:  Shift F10
+#   (That is, hold the Shift and Function keys down and press the F10 key.)
 #
-########################################################################
+#   Confirm that you see the output in the  "Run"  tab (to the right).
+#   Confirm that the output is what you expected, asking questions as desired.
+#
+#   This module is just an example (m1e, note the 'e').  After you have read
+#   and run the code, feel free to play with it briefly, then move on to m2.
+#
+###############################################################################
 
 print('Hello, World')
 print('hi there')
 print('one', 'two', 'buckle my shoe')
+
 print(3 + 9)
 print('3 + 9', 'versus', 3 + 9)
