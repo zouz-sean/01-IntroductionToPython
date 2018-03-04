@@ -1,17 +1,17 @@
 print('Hello, World')
 
-########################################################################
+###############################################################################
 # This line is a COMMENT -- a note to human readers of this file.
 # When a program runs, it ignores everything from a  # (hash)  mark
 # to the end of the line with the  #  mark.
 #
 # We call files that have Python code in them MODULES.  Line 1 of this
-# module (look at it now) prints onto the Console the STRING
+# module (look at it now) prints onto the Run tab the STRING
 #   Hello, World
 # Anything surrounded by quote marks (single or double) is a STRING.
-########################################################################
+###############################################################################
 
-########################################################################
+###############################################################################
 #
 # TODO: 1.
 #   (Yes, that means for YOU to DO things per these instructions:)
@@ -22,9 +22,9 @@ print('Hello, World')
 #        Hello, World
 #   did indeed get printed (displayed) on the Console.
 #
-########################################################################
+###############################################################################
 
-########################################################################
+###############################################################################
 #
 # TODO: 2.
 #   Notice the small horizontal BLUE bars on the scrollbar-like thing
@@ -47,9 +47,9 @@ print('Hello, World')
 # You have now completed TO DO #2, so change its TO DO on line 29 to DONE
 # (and proceed similarly for all forthcoming TODOs in this course).
 #
-########################################################################
+###############################################################################
 
-########################################################################
+###############################################################################
 #
 # TODO: 3.
 #   Add another   print   statement below.
@@ -58,9 +58,9 @@ print('Hello, World')
 #       method again or by using the play button in the upper right.
 #   Look at the Console to be sure that your string printed as expected.
 #
-########################################################################
+###############################################################################
 
-########################################################################
+###############################################################################
 #
 # TODO: 4.
 #   Add yet another   print   statement.
@@ -72,9 +72,9 @@ print('Hello, World')
 #   whom you trust:  What number did your   print   display for TO DO 4?
 #   (HINT: It is an INTERESTING number.)  Get help if your value is wrong.
 #
-########################################################################
+###############################################################################
 
-########################################################################
+###############################################################################
 #
 # TODO: 5.
 #   Look at the list of files in this project to the left.
@@ -98,4 +98,4 @@ print('Hello, World')
 #
 #   You can COMMIT as often as you like.  DO FREQUENT COMMITS.
 #
-########################################################################
+###############################################################################

@@ -9,7 +9,7 @@
 #   Or, use the keyboard shortcut:  Shift F10
 #   (That is, hold the Shift and Function keys down and press the F10 key.)
 #
-#   Confirm that you see the output in the  "Run"  tab (to the right).
+#   Confirm that you see the output in the  "Run"  window (to the right).
 #   Confirm that the output is what you expected, asking questions as desired.
 #
 #   This module is just an example (m1e, note the 'e').  After you have read
