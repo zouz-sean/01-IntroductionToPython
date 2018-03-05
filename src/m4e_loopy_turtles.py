@@ -26,12 +26,10 @@ Concepts include:
        then 40 the last time the body runs.
 
  * ASSIGNMENT and NAMES
-  -- ASSIGNING a VALUE to a NAME (VARIABLE), as in these examples:
+  -- ASSIGNING a VALUE to a NAME (aka VARIABLE), as in these examples:
         jack = 45
         jill = 'ran down the hill'
         size = size - 12
-  -- The computer's STATE during a run of a program is the set
-       of current values of all the names that the computer is tracking.
 
  * The DOT trick: Type expressions like the following,
      pausing after typing the DOT (period, full stop).
@@ -39,7 +37,7 @@ Concepts include:
         rg.
         rg.SimpleTurtle().
         rg.Pen().
-        rg.PaintBucket()
+        rg.PaintBucket().
 
 Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
          and their colleagues.
@@ -50,7 +48,7 @@ window = rg.TurtleWindow()
 
 blue_turtle = rg.SimpleTurtle('turtle')
 blue_turtle.pen = rg.Pen('midnight blue', 3)
-blue_turtle.speed = 10  # Fast
+blue_turtle.speed = 20  # Fast
 
 # The first square will be 300 x 300 pixels:
 size = 300
