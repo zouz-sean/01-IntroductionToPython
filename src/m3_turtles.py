@@ -66,7 +66,7 @@ import rosegraphics as rg
 #           print(matt.speed)
 #
 #   After you are confident that you understand all the code below,
-#   change this TO-DO to DONE and continue to the next TOD-DO.
+#   change this TO-DO to DONE and  ** continue to the next TOD-DO (below). **
 #
 ###############################################################################
 
@@ -81,26 +81,26 @@ window.delay(20)  # Bigger numbers mean slower animation.
 # -----------------------------------------------------------------------------
 # CONSTRUCT (make) a  SimpleTurtle  object and ASSIGN a NAME to the object.
 # -----------------------------------------------------------------------------
-dave = rg.SimpleTurtle()
+boris = rg.SimpleTurtle()
 
 # -----------------------------------------------------------------------------
 # Ask the SimpleTurtle object to do things by applying METHODs to it:
 # -----------------------------------------------------------------------------
-dave.forward(100)
-dave.left(90)
-dave.forward(200)
+boris.forward(100)
+boris.left(90)
+boris.forward(200)
 
 # -----------------------------------------------------------------------------
 # Construct a second SimpleTurtle,
 # set its  pen  and  speed  INSTANCE VARIABLES, and ask it to do things.
 # -----------------------------------------------------------------------------
-matt = rg.SimpleTurtle('turtle')
-matt.pen = rg.Pen('red', 30)  # Second argument is the Pen's thickness
-matt.speed = 10  # Faster
+natasha = rg.SimpleTurtle('turtle')
+natasha.pen = rg.Pen('red', 30)  # Second argument is the Pen's thickness
+natasha.speed = 10  # Faster
 
-matt.backward(50)
-matt.right(90)
-matt.forward(50)
+natasha.backward(50)
+natasha.right(90)
+natasha.forward(50)
 
 
 ###############################################################################
@@ -143,7 +143,6 @@ matt.forward(50)
 #   As always, test by running the module.
 #
 ###############################################################################
-
 
 ###############################################################################
 #
