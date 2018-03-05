@@ -46,12 +46,12 @@ print('Hello, World')
 #        Try it now on line 20 above, and note that its blue bar on
 #        the scrollbar-like thing to the right has gone away.
 #
-# If you change TODOs to DONEs like this, you can tell when you have
-# finished all the exercises in a module -- there will be no blue bars
-# left on the scrollbar-like thing to the right.
+#   If you change TODOs to DONEs like this, you can tell when you have
+#   finished all the exercises in a module -- there will be no blue bars
+#   left on the scrollbar-like thing to the right.
 #
-# You have now completed TO-DO #2, so change its TO-DO on line 35 to DONE
-# (and proceed similarly for all forthcoming TODOs in this course).
+#   You have now completed TO-DO #2, so change its TO-DO on line 35 to DONE
+#   (and proceed similarly for all forthcoming TODOs in this course).
 #
 ###############################################################################
 
