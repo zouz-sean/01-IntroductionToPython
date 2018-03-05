@@ -9,17 +9,6 @@ Authors: David Mutchler, Dave Fisher, Valerie Galluzzi, Amanda Stouder,
 #   On Line 5 above, replace  PUT_YOUR_NAME_HERE  with your own name.
 ###############################################################################
 
-import rosegraphics
-
-for k in range(8):
-    for k in range(3):
-        7=7
-    blah = 7
-    blah()
-    foo=read
-
-
-
 ###############################################################################
 # TODO: 2.
 #   You should have RUN the  m4e_loopy_turtles  module and READ its code.
