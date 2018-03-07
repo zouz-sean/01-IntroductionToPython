@@ -41,13 +41,12 @@ b_ok_turtle = rg.SimpleTurtle('turtle')
 b_ok_turtle.pen = rg.Pen('blue',2)
 b_ok_turtle.speed = 6
 b_ok_turtle.pen_up()
-b_ok_turtle.right(45)
-b_ok_turtle.forward(10)
-b_ok_turtle.left(45)
+b_ok_turtle.right(90)
+b_ok_turtle.forward(200)
 b_ok_turtle.pen_down()
 for  k in range (5):
-    b_ok_turtle.right(144)
-    b_ok_turtle.forward(400)
+    b_ok_turtle.left(144)
+    b_ok_turtle.forward(100)
 
 
 
