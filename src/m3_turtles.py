@@ -140,15 +140,15 @@ sean = rg.SimpleTurtle()
 #     -- assigns your SimpleTurtle's  pen  to the constructed Pen object, and
 #     -- makes your SimpleTurtle move around a bit.
 sean.pen = rg.Pen('green',10)
-sean.left(144)
+sean.left(50)
 sean.forward(100)
-sean.left(144)
+sean.left(80)
 sean.forward(100)
-sean.left(144)
+sean.left(100)
 sean.forward(100)
-sean.left(144)
+sean.left(125)
 sean.forward(100)
-sean.left(144)
+sean.left(180)
 sean.forward(100)
 
 #

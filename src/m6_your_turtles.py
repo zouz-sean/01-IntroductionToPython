@@ -31,8 +31,24 @@ import rosegraphics as rg
 window = rg.TurtleWindow()
 
 a_ok_turtle = rg.SimpleTurtle('turtle')
-a_ok_turtle.pen = rg.Pen('red',5)
-a_ok_turtle.speed = 20
+a_ok_turtle.pen = rg.Pen('red',2)
+a_ok_turtle.speed = 5
 for  k in range (5):
     a_ok_turtle.right(144)
-    a_ok_turtle.forward(100)
+    a_ok_turtle.forward(400)
+
+b_ok_turtle = rg.SimpleTurtle('turtle')
+b_ok_turtle.pen = rg.Pen('blue',2)
+b_ok_turtle.speed = 6
+b_ok_turtle.pen_up()
+b_ok_turtle.right(45)
+b_ok_turtle.forward(10)
+b_ok_turtle.left(45)
+b_ok_turtle.pen_down()
+for  k in range (5):
+    b_ok_turtle.right(144)
+    b_ok_turtle.forward(400)
+
+
+
+window.close_on_mouse_click()
